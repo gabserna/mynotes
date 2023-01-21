@@ -1,0 +1,27 @@
+Project Requirements:
+Must import your own font
+Use the form tag
+Have inputs and labels
+Those inputs and labels should be connected through 'id' and 'for' attributes
+CSS best practices
+Page looks the same as the example below
+
+Push your code up to github and turn in the link to your repository.
+**********************************************
+
+
+
+<input type="text">
+<input type="email">
+<input type="radio">
+<input type="checkbox">
+
+<input type="text" placeholder="Enter Name">
+
+<label for="LastName">Last Name: </label>
+<input type="text" id="LastName" placeholder="Last Name">
+
+
+
+
+border-radius: 4px;

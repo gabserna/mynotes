@@ -1,0 +1,1 @@
+Arrays can handle multiple objects or multiple value.
